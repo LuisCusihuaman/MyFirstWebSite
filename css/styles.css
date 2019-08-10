@@ -1,7 +1,7 @@
 body {
 	margin: 0px;
 	text-align: center;
-	font-family: 'Merriweather', serif;
+	font-family: "Merriweather", serif;
 }
 h1 {
 	margin: 0px auto 0px auto;
@@ -13,14 +13,8 @@ h1 {
 	padding-top: 100px;
 }
 .middle-container {
-	background-color: #17223b;
-	width: 200px;
-	height: 200px;
 }
 .botton-container {
-	background-color: #ff6768;
-	width: 200px;
-	height: 200px;
 }
 .top-cloud {
 	position: absolute;
